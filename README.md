@@ -1,4 +1,4 @@
-# coffe
+# Coffee-App
 
 A new Flutter project.
 
